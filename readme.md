@@ -1,6 +1,6 @@
-## my first project
--- intro git
---git codes
--- accessment
--- correction
---added
+## MY first project.
+- intro git
+- git codes
+- accessment
+- correction
+-added
