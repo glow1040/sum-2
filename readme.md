@@ -1,10 +1,10 @@
 ## SUMMARY
 - learnt about GIT.
-- GIT as a version control system
-- registering on git, signing up
+- GIT a version control system
+- registering on GIT,signing up
 - Having a url on git
-- using git CMD, with its CL
-- Learning how to create a project by creating a repository
+- using git cmd, with its cl
+- learning how to create a project by creating a repository
 - learning how to use some command lines on git
-- learning how to create a readme file 
-- practising how to create a readme file, accessment,identification & correction of my errors. 
+- learning how to create a readme file
+- practising how to create a readme file, acessment,identification & correction of errors.
