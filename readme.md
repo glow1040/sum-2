@@ -2,7 +2,7 @@
 - learnt about GIT.
 - GIT a version control system
 - registering on GIT,signing up
-- Having a url on git
+- Having a url on git.
 - using git cmd, with its cl
 - learning how to create a project by creating a repository
 - learning how to use some command lines on git
