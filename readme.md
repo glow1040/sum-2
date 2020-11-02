@@ -1,5 +1,5 @@
 ## SUMMARY
-- learnt about GIT
+- learnt about GIT.
 - GIT as a version control system
 - registering on git, signing up
 - Having a url on git
